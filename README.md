@@ -1,1 +1,1 @@
-# uro-Attentional-Capsule-Networks-and-Reinforcement-Learning
+# Neuro-Attentional-Capsule-Networks-and-Reinforcement-Learning
